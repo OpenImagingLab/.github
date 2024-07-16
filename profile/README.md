@@ -1,4 +1,7 @@
-<center><img src="signal2.png" width="600" height="120"></center>
+<div align="center">
+    <img src="signal2.png" width="600" height="120">
+</div>
+
 
 ## Welcome to OpenImagingLab! 👋
 
