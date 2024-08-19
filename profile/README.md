@@ -11,5 +11,6 @@ The OpenImagingLab is a research group from Shanghai AI Lab. We are dedicated to
     <img src="projects_page_v5.png" width="650" height="300">
 </div>
 
+<br><br>
 
 **We are looking for self-motivated Interns and Joint Training PhD Students ([Details](https://www.shlab.org.cn/enrollment#channel_599)), who are interested in computational photography, computer vision and computer graphics. Email:openimaginglab@pjlab.org.cn**
